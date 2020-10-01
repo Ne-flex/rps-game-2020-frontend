@@ -1,0 +1,15 @@
+{
+  "name": "rps-game-2020",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html single.html",
+    "build": "parcel build index.html single.html --dist-dir docs --public-url ."
+  },
+  "author": "Ne-flex",
+  "license": "ISC"
+}
